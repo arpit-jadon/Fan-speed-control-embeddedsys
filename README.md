@@ -1,0 +1,1 @@
+# Fan-speed-control-according-to-the-room-temperature-using-arduino-and-triac-driver-circuit-with-ZCD.
